@@ -1,0 +1,24 @@
+{
+  "name": "capable-crm",
+  "version": "0.1.0",
+  "description": "Use Capable CRM in Cursor: prepare for meetings, inspect your pipeline, and review proposed CRM updates field by field.",
+  "author": {
+    "name": "Capable Agents AB",
+    "email": "hello@capable.run",
+    "url": "https://capable.run"
+  },
+  "homepage": "https://capable.run",
+  "repository": "https://github.com/CapableOrg/capable-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "crm",
+    "mcp",
+    "sales",
+    "contacts",
+    "pipeline",
+    "meeting-preparation"
+  ],
+  "displayName": "Capable CRM",
+  "logo": "assets/logo.svg",
+  "mcpServers": ".mcp.json"
+}

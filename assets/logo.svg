@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Capable">
+  <style>.cap-tile{fill:#0a0a0a}.cap-mark{fill:#fafafa}@media (prefers-color-scheme:dark){.cap-tile{fill:#fafafa}.cap-mark{fill:#0a0a0a}}</style>
+  <rect class="cap-tile" width="100" height="100" rx="22"/>
+  <g transform="translate(18,15.64) scale(0.745)"><path class="cap-mark" d="M79.69,3.17h-39.76c-1.64,0-3.22.65-4.39,1.82L1.82,38.72c-1.16,1.16-1.82,2.74-1.82,4.38v39.76c0,3.42,2.78,6.2,6.2,6.2h39.76c1.64,0,3.22-.65,4.38-1.82l33.74-33.73c1.16-1.16,1.82-2.74,1.82-4.39V9.37c0-3.42-2.78-6.2-6.2-6.2ZM68.93,15.22l-25.71,25.71c-1.8,1.8-2.79,4.19-2.79,6.73v28.84c0,1.27-1.04,2.31-2.31,2.31H12.56c-1.27,0-2.31-1.04-2.31-2.31v-28.83c0-1.99.81-3.93,2.22-5.33l27.59-27.39c1-.99,2.33-1.54,3.74-1.54h24.39c.65,0,.91.5.98.65.06.15.23.69-.23,1.15Z"/></g>
+</svg>

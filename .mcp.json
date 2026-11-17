@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "capable": {
+      "url": "https://crm.capable.run/api/mcp"
+    }
+  }
+}
